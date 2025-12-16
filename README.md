@@ -14,5 +14,5 @@
 
 ### You can reach me on:
 ####  • $${\color{blue}facebook}$$ - https://www.facebook.com/jm.mmmmmmd/
-####  • $${\color{lightred}instagram}$$ - @jmmmm.d
+####  • $${\color{red}instagram}$$ - @jmmmm.d
 ####  • $${\color{lightblue}linkedin}$$ - https://www.linkedin.com/in/jay-mar-domantay-33938a122/
