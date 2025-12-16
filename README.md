@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**adol135/adol135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Jay Mar, a full-stack developer based in Philippines.
 
-Here are some ideas to get you started:
+# I build web/desktop application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I always integrate/introduced nuget packages/tools/libraries based on the application requirements.
+
+# My main tech stack is C#/.Net, javascript, jquery, and bootstrap. My favorite tools are postman(API testing), visual studio(main IDE), draw.io app(flowchart maker), and github desktop(version control).
+
+# I have built over 20 private repositories.
+
+# You can reach me on:
+  • facebook - https://www.facebook.com/jm.mmmmmmd/
+  • instagram - @jmmmm.d
+  • linkedin - https://www.linkedin.com/in/jay-mar-domantay-33938a122/
