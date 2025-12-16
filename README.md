@@ -6,7 +6,7 @@
 
 ### I always integrate/introduced nuget packages/tools/libraries based on the application requirements.
 
-### My main tech stack is C#/.Net, javascript, jquery, and bootstrap. My favorite tools are postman(API testing), visual studio(main IDE), draw.io app(flowchart maker), and github desktop(version control).
+### My main tech stack is C#/.Net, OraclePLSQL, MySQL, javascript, jquery, and bootstrap. My favorite tools are postman(API testing), visual studio(main IDE), Toad(SQL IDE), draw.io app(flowchart maker), and github desktop(version control).
 
 ### I have built over 20 private repositories.
 
