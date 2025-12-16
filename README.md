@@ -13,6 +13,6 @@
 ### I have built over 20 private repositories.
 
 ### You can reach me on:
-####  • <code style="color : aqua">facebook</code> - https://www.facebook.com/jm.mmmmmmd/
-####  • <code style="color : fuchsia">instagram</code> - @jmmmm.d
-####  • <code style="color : cyan">linkedin</code> - https://www.linkedin.com/in/jay-mar-domantay-33938a122/
+####  • $${\color{blue}facebook - https://www.facebook.com/jm.mmmmmmd/
+####  • $${\color{blue}instagram - @jmmmm.d
+####  • $${\color{blue}linkedin - https://www.linkedin.com/in/jay-mar-domantay-33938a122/
