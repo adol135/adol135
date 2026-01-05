@@ -1,9 +1,9 @@
-# Hi there 👋
+![Header](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c1c002ff-1cce-4870-817d-02494415f77b" />)
 
 
 ### I'm Jay Mar, a full-stack developer based in Philippines.
 
-### I have built in-house and public web/desktop application and I also enjoy building custom applications during my weekends especially when another application is involve (hooking application).
+### I have built in-house and public web/desktop application and I also enjoy building custom applications during my weekends especially when hooking a code into the application.
 
 ### I always integrate nuget packages/tools/libraries based on the application requirements.
 
