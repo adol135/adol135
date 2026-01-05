@@ -28,24 +28,24 @@
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" alt="draw.io app(flowchart maker)" title="draw.io app(flowchart maker)"/></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github desktop(version control)" title="github desktop(version control)"/></code>
 
-
+#
 ### I have built over 20 private repositories.
-
-
+#
+#
 ### You can reach me on:
 [<img src="https://img.shields.io/badge/facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jm.mmmmmmd/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jay.domantay.jd@gmail.com)
 [<img src="https://img.shields.io/badge/Instagram-f2184f?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jmmmm.d/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jay-mar-domantay-33938a122/)
-
-
+#
+#
 ### I'm still expanding my knowledge on the following technologies:
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-
-
+#
+#
 ### Used other techstacks on work:
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
