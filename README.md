@@ -44,10 +44,11 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 ##
 
-### Used other techstacks on work:
+### Used other tools on work:
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" title="Selenium"/></code>
 <code><img width="50" src="https://www.firebirdsql.org/file/about/firebird-logo-48.png" alt="Firebird" title="Firebird"/></code>
+<code><img width="50" src="https://github.com/user-attachments/assets/ba4a5877-b84f-4e91-b6c2-227cf306650d" alt="SQL Developer" title="SQL Developer"/></code>
 ##
