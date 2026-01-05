@@ -1,4 +1,4 @@
-![Header][<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c1c002ff-1cce-4870-817d-02494415f77b" />]
+![Header](./github-header-banner.png)
 
 
 ### I'm Jay Mar, a full-stack developer based in Philippines.
