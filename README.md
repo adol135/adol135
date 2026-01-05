@@ -20,7 +20,8 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code>
-## <br />
+### <br />
+### <br />
 
 ## Favorite tools:
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
@@ -29,8 +30,8 @@
 <code><img width="50" src="https://s44523.pcdn.co/wp-content/uploads/2023/07/ToadWallpaper-AR-69209-spring-avatar.ico" alt="Toad(ORACLE PLSQL IDE)" title="Toad(ORACLE PLSQL IDE)"/></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" alt="draw.io app(flowchart maker)" title="draw.io app(flowchart maker)"/></code>
 <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github desktop(version control)" title="github desktop(version control)"/></code>
-## <br />
-## <br />
+### <br />
+### <br />
 
 ### You can reach me on:
 [<img src="https://img.shields.io/badge/facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jm.mmmmmmd/)
