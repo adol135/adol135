@@ -17,12 +17,12 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" title="Oracle"/></code>
 
 ### Favorite tools:
-### <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-### <code><img width="50" src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000" alt="Visual Studio" title="Visual Studio"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-Toad(ORACLE PLSQL IDE)
-draw.io app(flowchart maker)
-github desktop(version control).
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+<code><img width="50" src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000" alt="Visual Studio" title="Visual Studio (Backend IDE/Main IDE)"/></code>
+<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code(Frontend IDE)"/></code>
+<code><img width="50" src="https://en.wikipedia.org/wiki/Toad_%28software%29#/media/File:Toad-Original_RGB.png" alt="Toad(ORACLE PLSQL IDE)" title="Toad(ORACLE PLSQL IDE)"/></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Diagrams.net_Logo.svg" alt="draw.io app(flowchart maker)" title="draw.io app(flowchart maker)"/></code>
+<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="github desktop(version control)" title="github desktop(version control)"/></code>
 
 ### I have built over 20 private repositories.
 
