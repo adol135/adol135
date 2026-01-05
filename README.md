@@ -18,7 +18,7 @@
 
 ### Favorite tools:
 ### <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-### visual studio(main IDE)
+### <code><img width="50" src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000" alt="Visual Studio" title="Visual Studio"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 Toad(ORACLE PLSQL IDE)
 draw.io app(flowchart maker)
