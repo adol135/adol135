@@ -2,11 +2,11 @@
 
 
 ### I'm Jay Mar, a full-stack developer based in Philippines.
-### <br />
+
 ### I have built in-house and public web/desktop application and I also enjoy building custom applications during my weekends especially when another application is involve (hooking application).
-### <br />
+
 ### I always integrate nuget packages/tools/libraries based on the application requirements.
-### <br />
+
 ### I have built over 20 private repositories.
 ### <br />
 
