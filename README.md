@@ -52,6 +52,6 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" title="Selenium"/></code>
 <code><img width="50" src="https://www.firebirdsql.org/file/about/firebird-logo-48.png" alt="Firebird" title="Firebird"/></code>
 <code><img width="50" src="https://github.com/user-attachments/assets/ba4a5877-b84f-4e91-b6c2-227cf306650d" alt="SQL Developer" title="SQL Developer"/></code>
-<code><img src="https://icons.iconarchive.com/icons/gartoon-team/gartoon-mimetype/48/app-pgp-keys-icon.png" width="50" height="50" alt="PGP" title="PGP"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8crvnJitdY6DJAqqLKrU19ktCB2Rt8fziDA&s" width="50" height="50" alt="PGP" title="PGP"></code>
 <code><img width="50" height="50" src="https://github.com/user-attachments/assets/b91809e0-2d5f-4866-9ab1-a8aeb25d2a34" alt="IIS Express" title="IIS Express"/></code>
 ##
